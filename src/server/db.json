@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": "84759472-296e-4262-9609-bba3aa47a866",
+      "name": "ASM Java 6 | Spring Boot | Spring Security + JWT",
+      "chanelName": "Thầy Lộc",
+      "view": "200N",
+      "createDate": "3 year ago",
+      "videoPath": "https://firebasestorage.googleapis.com/v0/b/fvideos-3163f.appspot.com/o/videos%2F90f8d253-67f4-45b3-be53-91b62de1661c?alt=media&token=7fbd903a-a120-4fb0-a031-7e3f57305ec7"
+    },
+    {
+      "id": "30351a5c-61a4-40b5-a3c3-db76a8f23833",
+      "name": "ASM Java 6 | Spring Boot | Code phần Login",
+      "chanelName": "Thầy Lộc",
+      "view": "200N",
+      "createDate": "3 year ago",
+      "videoPath": "https://firebasestorage.googleapis.com/v0/b/fvideos-3163f.appspot.com/o/videos%2F2a565591-ee37-455b-9b13-ed562ea6919a?alt=media&token=4e6b52b5-d7c8-43db-a56a-77b45b8586eb"
+    },
+    {
+      "id": "8e7b6e61-63ef-4383-bc6b-a4b39d50d0c9",
+      "name": "ASM Java 6 | Spring Boot | Code Giỏ hàng",
+      "chanelName": "Thầy Lộc",
+      "view": "200N",
+      "createDate": "3 year ago",
+      "videoPath": "https://firebasestorage.googleapis.com/v0/b/fvideos-3163f.appspot.com/o/videos%2Fe87918f3-b32a-4924-bad3-4b5e0b5d5673?alt=media&token=69561de4-002f-4538-a928-1f5d36339eee"
+    },
+    {
+      "id": "62308a48-3a27-4974-ba51-35208bf2fa69",
+      "name": "ASM Java 6 | Spring Boot | Tích hợp thanh toán",
+      "chanelName": "Thầy Lộc",
+      "view": "200N",
+      "createDate": "3 year ago",
+      "videoPath": "https://firebasestorage.googleapis.com/v0/b/fvideos-3163f.appspot.com/o/videos%2Fc915b3b3-0a6e-4845-8803-714aa12623ff?alt=media&token=79d5eee4-e3af-45ac-b3ee-61435c494c8b"
+    },
+    {
+      "id": "a6b9900b-cbee-47a6-bcf2-19c8bc93ac22",
+      "name": "ASM Java 6 | Spring Boot | Lập báo cáo thống kê",
+      "chanelName": "Thầy Lộc",
+      "view": "200N",
+      "createDate": "3 year ago",
+      "videoPath": "https://firebasestorage.googleapis.com/v0/b/fvideos-3163f.appspot.com/o/videos%2F70fdab32-d83c-44bc-acfa-39ed4970b942?alt=media&token=27e5e3da-873d-47d2-b689-7a48f30e3404"
+    },
+    {
+      "id": "90fb5587-a7f7-4732-865d-e7dfa532e750",
+      "name": "ASM Java 6 | Spring Boot | Kiểm thử, deloy, bảo trì",
+      "chanelName": "Thầy Lộc",
+      "view": "200N",
+      "createDate": "3 year ago",
+      "videoPath": "https://firebasestorage.googleapis.com/v0/b/fvideos-3163f.appspot.com/o/videos%2F03d487b6-d7e8-48a3-a944-e4f4bd0e38c3?alt=media&token=732ba817-b82f-48b2-9289-e81822e2d358"
+    }
+  ]
+}
