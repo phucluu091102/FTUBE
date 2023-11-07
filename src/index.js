@@ -15,6 +15,7 @@ import { ChangePass } from "./components/account/changePassWord/changePass"
 import { ReasonRefuse } from "./components/Proposed/Refuse/reasonrefuse";
 import Notification from "./components/Notification/noti";
 import { MyAccount } from "./components/account/myaccount/MyAccount";
+import PersonalInformation from "./components/account/account";
 
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
@@ -33,7 +34,7 @@ root.render(
         <Route path="resonRefuse" element={<ReasonRefuse />} />
         <Route path="noti" element={<Notification />} />
         <Route path="myAccount" element={<MyAccount />} />
-
+        <Route path="Account" element={<PersonalInformation />} />
       </Route>
     </Routes>
   </BrowserRouter>

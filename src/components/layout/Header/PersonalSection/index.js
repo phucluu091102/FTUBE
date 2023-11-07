@@ -30,7 +30,7 @@ const PersonalSection = () => {
     navigate('/changePass');
   };
   const handleMyAccount = () => {
-    navigate('/myAccount');
+    navigate('/Account');
   };
   return (
     <Box component={"div"}>
