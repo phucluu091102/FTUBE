@@ -14,9 +14,9 @@ import { Refuse } from "./components/Proposed/Refuse/Refuse";
 import { ChangePass } from "./components/account/changePassWord/changePass"
 import { ReasonRefuse } from "./components/Proposed/Refuse/reasonrefuse";
 import Notification from "./components/Notification/noti";
-import { MyAccount } from "./components/account/myaccount/MyAccount";
-import PersonalInformation from "./components/account/account";
-
+// import { MyAccount } from "./components/account/myaccount/MyAccount";
+import PersonalInformation from "./components/account/myaccount/account";
+import { AccountDm } from "./components/account/myaccount/AccountDemo";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
@@ -33,8 +33,9 @@ root.render(
         <Route path="changePass" element={<ChangePass />} />
         <Route path="resonRefuse" element={<ReasonRefuse />} />
         <Route path="noti" element={<Notification />} />
-        <Route path="myAccount" element={<MyAccount />} />
+        {/* <Route path="myAccount" element={<MyAccount />} /> */}
         <Route path="Account" element={<PersonalInformation />} />
+        <Route path="AccountDemo" element={<AccountDm />} />
       </Route>
     </Routes>
   </BrowserRouter>
